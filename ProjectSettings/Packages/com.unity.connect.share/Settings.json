@@ -1,0 +1,28 @@
+{
+    "m_Name": "Settings",
+    "m_Path": "ProjectSettings/Packages/com.unity.connect.share/Settings.json",
+    "m_Dictionary": {
+        "m_DictionaryValues": [
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "firstTime",
+                "value": "{\"m_Value\":false}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "autoPublish",
+                "value": "{\"m_Value\":true}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "createDefaultBuildsFolder",
+                "value": "{\"m_Value\":true}"
+            },
+            {
+                "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "buildOutputDirList",
+                "value": "{\"m_Value\":\"C:/Users/vivek.menon/Downloads/RouletteDemoWheelIntegration (1)/Build 6;C:/Users/vivek.menon/Downloads/RouletteDemoWheelIntegration (1)/Build5;C:/Users/vivek.menon/Downloads/RouletteDemoWheelIntegration (1)/build2;C:/Users/vivek.menon/Downloads/RouletteDemoWheelIntegration (1)/BUILD;C:/AryaanFTW/Unity Projects/Experiment/RouletteDemo (1)/RouletteDemoWheelIntegration/WebGL Builds;;;;;\"}"
+            }
+        ]
+    }
+}
